@@ -37,6 +37,7 @@
 ## ✨ Fun Fact
 - 😄 Pronouns: Orophile 🌊 (Nature & Mountain Lover)
 - 🧭 Wanderlust by heart
+- 🧭 Always on a journey to explore new places and possibilities!
 
 ## 🧠 Quote I Believe In
 > **"Sky is not the limit."** 🚀
