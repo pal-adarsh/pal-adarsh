@@ -40,7 +40,18 @@
 - 🧭 Always on a journey to explore new places and possibilities!
 
 ## 🧠 Quote I Believe In
-> **"Sky is not the limit."** 🚀
+<h2 align="center">"Sky is not the limit 🚀"</h2>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=pal-adarsh&label=Profile%20views&color=0e75b6&style=flat" alt="pal-adarsh" />
+  <img src="https://img.shields.io/github/followers/pal-adarsh?label=Follow&style=social" alt="pal-adarsh" />
+  <img src="https://img.shields.io/github/stars/pal-adarsh?label=Stars&style=social" alt="pal-adarsh" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=pal-adarsh&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="github trophies"/>
+</p>
+
 
 <!--- 
 # 📊 GitHub Stats
