@@ -77,17 +77,23 @@
 
 ---
 
-## 📈 GitHub Stats
+## 🔥 GitHub Streak
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pal-adarsh&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pal-adarsh&theme=algolia" alt="GitHub Streak" />
 </p>
 
+---
+
+## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pal-adarsh&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pal-adarsh&show_icons=true&theme=algolia" alt="GitHub Stats" />
 </p>
 
+---
+
+## 📚 Top Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pal-adarsh&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pal-adarsh&layout=compact&theme=algolia" alt="Top Languages" />
 </p>
 
 ---
