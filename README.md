@@ -27,7 +27,7 @@
 
 ## 🧩 Skills
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express,mongodb,python,java ,c ,mysql,tailwind,bootstrap,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express,mongodb,python,java,c,mysql,tailwind,bootstrap,github" />
 </p>
 
 ---
