@@ -6,6 +6,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&width=440&lines=Full+Stack+Developer;Python%2C+Java%2C+C+Programmer;Learning+DSA%2C+AI%2C+Web3;Nature+Lover+%F0%9F%8C%B1+Trekker+%F0%9F%A5%BE" alt="Typing SVG" />
 </h3>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=pal-adarsh&label=Profile%20views&color=0e75b6&style=flat" alt="pal-adarsh" />
+  <img src="https://img.shields.io/github/followers/pal-adarsh?label=Follow&style=social" alt="pal-adarsh" />
+  <img src="https://img.shields.io/github/stars/pal-adarsh?label=Stars&style=social" alt="pal-adarsh" />
+</p>
+
 ## 🚀 About Me
 - 🌟 Full Stack Development Enthusiast
 - 💻 Skilled in **C**, **Python**, **Java**, **Full Stack Web Development**
@@ -42,27 +48,7 @@
 ## 🧠 Quote I Believe In
 <h2 align="center">"Sky is not the limit 🚀"</h2>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pal-adarsh&label=Profile%20views&color=0e75b6&style=flat" alt="pal-adarsh" />
-  <img src="https://img.shields.io/github/followers/pal-adarsh?label=Follow&style=social" alt="pal-adarsh" />
-  <img src="https://img.shields.io/github/stars/pal-adarsh?label=Stars&style=social" alt="pal-adarsh" />
-</p>
-
+## 🏆 GitHub Trophy
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=pal-adarsh&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="github trophies"/>
 </p>
-
-
-<!--- 
-# 📊 GitHub Stats
-
-![Adarsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pal-adarsh&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pal-adarsh&layout=compact&theme=radical)
-
---->
-  
-<!---
-pal-adarsh/pal-adarsh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
