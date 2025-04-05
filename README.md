@@ -6,10 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&width=440&lines=Full+Stack+Developer;Python%2C+Java%2C+C+Programmer;Learning+DSA%2C+AI%2C+Web3;Nature+Lover+%F0%9F%8C%B1+Trekker+%F0%9F%A5%BE" alt="Typing SVG" />
 </h3>
 
-# 👋 Hi, I'm Adarsh Pal (@pal-adarsh)
-
-
-
 ## 🚀 About Me
 - 🌟 Full Stack Development Enthusiast
 - 💻 Skilled in **C**, **Python**, **Java**, **Full Stack Web Development**
