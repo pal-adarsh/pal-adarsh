@@ -45,16 +45,14 @@
 ## 🧠 Quote I Believe In
 > **"Sky is not the limit."** 🚀
 
----
-
+<!--- 
 # 📊 GitHub Stats
 
 ![Adarsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pal-adarsh&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pal-adarsh&layout=compact&theme=radical)
 
----
-
+--->
   
 <!---
 pal-adarsh/pal-adarsh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
