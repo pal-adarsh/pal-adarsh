@@ -9,7 +9,9 @@
 <p align="center">
   <img src="https://i.pinimg.com/originals/8e/7b/5b/8e7b5bc5f2039f43887bce8f600f8ab0.gif" width="250" alt="Banner GIF"/>
 </p>
+
 ---
+
 ## 🚀 About Me
 - 🌟 Full Stack Development Enthusiast
 - 💻 Skilled in **C**, **Python**, **Java**, **Full Stack Web Development**
