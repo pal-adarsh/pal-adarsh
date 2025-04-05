@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi there 👋, I'm Adarsh Pal
+  Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> , I'm Adarsh Pal
 </h1>
 
 <h3 align="center">
@@ -8,7 +8,7 @@
 
 # 👋 Hi, I'm Adarsh Pal (@pal-adarsh)
 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+
 
 ## 🚀 About Me
 - 🌟 Full Stack Development Enthusiast
