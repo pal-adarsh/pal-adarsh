@@ -1,11 +1,10 @@
-Perfect bro! 🔥 Tumne jo details diye hain, usse ab ek **full pro + slightly animated** GitHub README banayenge.  
-Main 2 cheezein banaunga:
-- 1️⃣ Normal stylish README
-- 2️⃣ Typing effect aur waving GIF wala fancy version  
+<h1 align="center">
+  Hi there 👋, I'm Adarsh Pal
+</h1>
 
-Ready? Yahaan pe sab kuch ready hai:
-
----
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&width=440&lines=Full+Stack+Developer;Python%2C+Java%2C+C+Programmer;Learning+DSA%2C+AI%2C+Web3;Nature+Lover+%F0%9F%8C%B1+Trekker+%F0%9F%A5%BE" alt="Typing SVG" />
+</h3>
 
 # 👋 Hi, I'm Adarsh Pal (@pal-adarsh)
 
@@ -55,15 +54,6 @@ Ready? Yahaan pe sab kuch ready hai:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pal-adarsh&layout=compact&theme=radical)
 
 ---
-
-# ✨ Little Typing Animation
-<h1 align="center">
-  Hi there 👋, I'm Adarsh Pal
-</h1>
-
-<h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&width=440&lines=Full+Stack+Developer;Python%2C+Java%2C+C+Programmer;Learning+DSA%2C+AI%2C+Web3;Nature+Lover+%F0%9F%8C%B1+Trekker+%F0%9F%A5%BE" alt="Typing SVG" />
-</h3>
 
   
 <!---
