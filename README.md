@@ -58,13 +58,6 @@
   </a>
 </p>
 
-<!-- Hover Animation -->
-<style>
-  a:hover img {
-    transform: scale(1.1);
-    transition: transform 0.3s ease;
-  }
-</style>
 
 
 ---
