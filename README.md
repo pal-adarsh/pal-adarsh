@@ -83,6 +83,7 @@
 
 ---
 
+<!---
 ## 🏆 GitHub Trophy
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=pal-adarsh&theme=onedark&no-frame=true&no-bg=true&margin-w=4" />
@@ -101,6 +102,8 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pal-adarsh&show_icons=true&theme=algolia" alt="GitHub Stats" />
 </p>
+
+---
 
 ===>
 
