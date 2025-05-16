@@ -83,6 +83,8 @@
 
 ---
 
+<!---
+
 ## 🏆 GitHub Trophy
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=pal-adarsh&theme=onedark&no-frame=true&no-bg=true&margin-w=4" />
@@ -104,9 +106,9 @@
 
 ---
 
-===>
-
 ## 📚 Top Languages
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pal-adarsh&layout=compact&theme=algolia" alt="Top Languages" />
 </p>
+
+---
