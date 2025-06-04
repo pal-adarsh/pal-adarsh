@@ -6,6 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&width=440&lines=Full+Stack+Developer;Python%2C+Java%2C+C+Programmer;Learning+DSA%2C+AI%2C+Web3;Nature+Lover+%F0%9F%8C%B1+Trekker+%F0%9F%A5%BE" alt="Typing SVG" />
 </h3>
 
+
 <p align="center">
   <img src="https://i.pinimg.com/originals/8e/7b/5b/8e7b5bc5f2039f43887bce8f600f8ab0.gif" width="250" alt="Banner GIF"/>
 </p>
