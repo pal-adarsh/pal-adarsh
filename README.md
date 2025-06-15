@@ -84,18 +84,18 @@
 
 ---
 
+## 🔥 GitHub Streak
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pal-adarsh&theme=algolia" alt="GitHub Streak" />
+</p>
+
+---
+
 <!---
 
 ## 🏆 GitHub Trophy
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=pal-adarsh&theme=onedark&no-frame=true&no-bg=true&margin-w=4" />
-</p>
-
----
-
-## 🔥 GitHub Streak
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pal-adarsh&theme=algolia" alt="GitHub Streak" />
 </p>
 
 ---
