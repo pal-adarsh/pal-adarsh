@@ -1,115 +1,151 @@
-<h1 align="center">
-  Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"/> , I'm Adarsh Pal
-</h1>
+<div align="center">
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&width=440&lines=Full+Stack+Developer;Python%2C+Java%2C+C+Programmer;Learning+DSA%2C+AI%2C+Web3;Nature+Lover+%F0%9F%8C%B1+Trekker+%F0%9F%A5%BE" alt="Typing SVG" />
-</h3>
+<!-- HEADER BANNER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:6e40c9&height=200&section=header&text=Adarsh%20Pal&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Builder%20%7C%20Explorer&descAlignY=60&descSize=18&animation=fadeIn" />
 
+<!-- ANIMATED GREETING -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Adarsh+%F0%9F%91%8B;Full+Stack+Developer+%26+Builder;Python+%7C+Java+%7C+Web+Dev+Enthusiast;Always+Learning+%7C+Always+Growing+%F0%9F%9A%80" alt="Typing SVG" />
 
-<p align="center">
-  <img src="https://i.pinimg.com/originals/8e/7b/5b/8e7b5bc5f2039f43887bce8f600f8ab0.gif" width="250" alt="Banner GIF"/>
-</p>
+<br/>
 
----
+<!-- SOCIAL BADGES -->
+<a href="mailto:adarsh.r.s.pal@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/adarsh-pal-11212b292">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://www.instagram.com/_adarsh.pal">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+<a href="https://github.com/pal-adarsh">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-## 🚀 About Me
-- 🌟 Full Stack Development Enthusiast
-- 💻 Skilled in **C**, **Python**, **Java**, **Full Stack Web Development**
-- 🔥 Currently learning **MERN Stack**
-- 🎨 Exploring **3D Web Designing** and modern web technologies
+<br/><br/>
 
----
+<!-- PROFILE VIEWS -->
+<img src="https://komarev.com/ghpvc/?username=pal-adarsh&label=Profile+Views&color=6e40c9&style=flat-square" alt="profile views" />
 
-## 🎯 Goals
-- 📚 Learning **Data Structures & Algorithms (DSA)**
-- 🤖 Exploring **Artificial Intelligence (AI)**
-- 🌐 Diving into **Web3 (Blockchain Development)**
-
----
-
-## 🧩 Skills
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,tailwind,bootstrap,github,react,nodejs,express,mongodb,python,java,c,mysql" />
-</p>
+</div>
 
 ---
 
-## 🤝 Let's Collaborate
-- Web Development Projects
-- Full Stack Applications
-- 3D Web Designing and Experiments
+## 🧑‍💻 About Me
+
+```yaml
+name: Adarsh Pal
+location: Mumbai, India 🇮🇳
+education: Computer Engineering @ LTCoE (3rd Year)
+role: Full Stack Developer & Lifelong Learner
+
+currently:
+  - 🔥 Building full-stack web applications
+  - 📚 Sharpening DSA skills for placements
+  - 🤖 Exploring AI & Machine Learning
+  - 🌐 Diving into Web3 & Blockchain
+
+interests:
+  - 🥾 Trekking & Mountain Trails
+  - 🌿 Nature, Plants & Travel
+  - 🚀 Tech that solves real problems
+
+philosophy: "The sky is NOT the limit — it's just the beginning."
+```
 
 ---
 
-## 📫 Connect with Me
+## 🛠️ Tech Stack
 
-<p align="center">
-  <a href="mailto:adarsh.r.s.pal@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
-  </a>
-  <a href="https://www.instagram.com/_adarsh.pal?igsh=MWR1Y3Jwdm56bmJteA==" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" />
-  </a>
-  <a href="https://www.linkedin.com/in/adarsh-pal-11212b292?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
-  </a>
-  <a href="https://github.com/pal-adarsh" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
-  </a>
-</p>
+<div align="center">
 
+### 🌐 Frontend
+<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,tailwind,bootstrap&theme=dark" />
 
+### ⚙️ Backend & Database
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,supabase&theme=dark" />
 
----
+### 🧰 Languages & Tools
+<img src="https://skillicons.dev/icons?i=python,java,c,git,github,vscode,figma&theme=dark" />
 
-## 🌱 Hobbies
-- 🥾 Trekking
-- 🌍 Traveling & Exploring Nature
-- 🌱 Planting and Growing New Plants
-
----
-
-## ✨ Fun Fact
-- 😄 Pronouns: **Orophile** 🌊 (Nature & Mountain Lover)
-- 🧭 **Wanderlust by heart**
-- 🚀 **Sky is not the limit, it's just the beginning!**
-
----
-
-## 🧠 Quote I Believe In
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=500&color=00FEEF&center=true&vCenter=true&width=800&lines=The+Sky+is+NOT+the+Limit!;Keep+Exploring+New+Horizons!;Stay+Curious%2C+Stay+Foolish!;Keep+Learning+Keep+Growing!" alt="Quotes Typing" />
-</p>
-
----
-
-## 🔥 GitHub Streak
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pal-adarsh&theme=algolia" alt="GitHub Streak" />
-</p>
-
----
-
-<!---
-
-## 🏆 GitHub Trophy
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pal-adarsh&theme=onedark&no-frame=true&no-bg=true&margin-w=4" />
-</p>
+</div>
 
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pal-adarsh&show_icons=true&theme=algolia" alt="GitHub Stats" />
-</p>
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=pal-adarsh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&rank_icon=github" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=pal-adarsh&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa" />
+
+<br/>
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pal-adarsh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8" />
+
+</div>
 
 ---
 
-## 📚 Top Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pal-adarsh&layout=compact&theme=algolia" alt="Top Languages" />
-</p>
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=pal-adarsh&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" />
+</div>
 
 ---
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pal-adarsh&bg_color=0d1117&color=a78bfa&line=6e40c9&point=ffffff&area=true&hide_border=true" />
+</div>
+
+---
+
+## 🎯 Current Focus
+
+<div align="center">
+
+| Area | Status |
+|------|--------|
+| 🧩 Data Structures & Algorithms | `In Progress 📖` |
+| 🤖 Artificial Intelligence & ML | `Exploring 🔭` |
+| 🌐 Web3 & Blockchain | `Learning 🌱` |
+| ⚛️ MERN Stack | `Building 🔨` |
+| 🎓 Campus Placements | `Preparing 💪` |
+
+</div>
+
+---
+
+## 🤝 Let's Collaborate!
+
+I'm open to collaborating on:
+
+- 🌐 **Full Stack Web Applications** — from MVPs to production-grade systems
+- 🧪 **Experimental 3D Web Experiences** — Three.js, WebGL, creative UI
+- 🤖 **AI-integrated tools** — smart apps with real-world impact
+- 📱 **Open Source Projects** — that solve real Indian market problems
+
+---
+
+## ✨ A Bit More About Me
+
+<div align="center">
+
+🥾 Trekker & Mountain Lover &nbsp;|&nbsp; 🌿 Plant Parent &nbsp;|&nbsp; 🌍 Wanderlust at Heart
+
+*"Orophile"* — someone who loves mountains and high elevations.
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=700&lines=The+Sky+is+NOT+the+Limit+🚀;Keep+Exploring+New+Horizons+🌄;Stay+Curious.+Stay+Hungry.+Stay+Foolish.;Every+line+of+code+is+a+step+forward+💻" alt="Quotes" />
+
+</div>
+
+---
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,100:0d1117&height=120&section=footer&animation=fadeIn" />
+</div>
