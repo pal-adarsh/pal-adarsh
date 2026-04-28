@@ -125,6 +125,7 @@
 
 ---
 
+<!--
 ## 🐍 Watch the Snake Eat My Contributions
 
 <div align="center">
@@ -138,6 +139,8 @@
 > ⚙️ **One-time setup needed** → Create `.github/workflows/snake.yml` in your profile repo. [Guide here](https://github.com/Platane/snk)
 
 <br/>
+
+-->
 
 ---
 
