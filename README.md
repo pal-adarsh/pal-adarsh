@@ -140,8 +140,6 @@
 
 <br/>
 
--->
-
 ---
 
 ## 🗓️ 3D Contribution Calendar
@@ -153,6 +151,8 @@
 > ⚙️ **One-time setup needed** → [github-profile-3d-contrib setup guide](https://github.com/yoshi389111/github-profile-3d-contrib)
 
 <br/>
+
+-->
 
 ---
 
