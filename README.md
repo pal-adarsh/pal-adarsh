@@ -125,34 +125,40 @@
 
 ---
 
-<!--
 ## 🐍 Watch the Snake Eat My Contributions
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pal-adarsh/pal-adarsh/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pal-adarsh/pal-adarsh/output/github-contribution-grid-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/pal-adarsh/pal-adarsh/output/github-contribution-grid-snake-dark.svg" />
-  </picture>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/pal-adarsh/pal-adarsh/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/pal-adarsh/pal-adarsh/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/pal-adarsh/pal-adarsh/output/github-contribution-grid-snake-dark.svg"
+    width="100%"
+  />
+</picture>
+
 </div>
-
-> ⚙️ **One-time setup needed** → Create `.github/workflows/snake.yml` in your profile repo. [Guide here](https://github.com/Platane/snk)
-
-<br/>
 
 ---
 
-## 🗓️ 3D Contribution Calendar
+## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/pal-adarsh/pal-adarsh/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contributions" width="100%" />
+
+<img
+width="100%"
+src="https://github-readme-activity-graph.vercel.app/graph?username=pal-adarsh&theme=tokyo-night&hide_border=true&area=true&custom_title=Adarsh%20Pal's%20Contribution%20Graph"
+/>
+
 </div>
-
-> ⚙️ **One-time setup needed** → [github-profile-3d-contrib setup guide](https://github.com/yoshi389111/github-profile-3d-contrib)
-
-<br/>
-
--->
 
 ---
 
