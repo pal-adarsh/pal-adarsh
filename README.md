@@ -64,8 +64,6 @@
 💼 Role        : Full Stack Developer | Open Source Enthusiast
 
 🔭 Currently :
-   - 🚀 Building Skill Forge — AI-powered coding platform
-   - 🪔 Building Hindustan Utsav — AI-powered festival encyclopedia
    - 🧩 Sharpening DSA for campus placements
    - 🤖 Exploring AI Agents & LLM Integrations
    - 🌐 Learning System Design & Web3
