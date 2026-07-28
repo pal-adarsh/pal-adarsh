@@ -1,212 +1,221 @@
 <div align="center">
 
 <!-- ══════════════════════════════════════════════════
-     ANIMATED HEADER WAVE — twinkling star effect
+     HERO — glitch/neon pink, animated header
 ═══════════════════════════════════════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:130428,60:3b0764,100:7c3aed&height=220&section=header&text=Adarsh%20Pal&fontSize=72&fontColor=ffffff&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20Builder%20%7C%20Explorer&descAlignY=62&descSize=20&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0510,25:2d0a3e,55:5b0f5e,100:ff2d95&height=250&section=header&text=ADARSH%20PAL&fontSize=74&fontColor=ffe3f3&fontAlignY=36&desc=Full%20Stack%20Developer%20//%20Builder%20//%20Orophile&descAlignY=58&descSize=20&descColor=ff6ec7&animation=twinkling" />
 
 <br/>
 
-<!-- ══════════════════════════════════════════════════
-     ANIMATED TYPING ROLES
-═══════════════════════════════════════════════════ -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=13&pause=1000&color=FF2D95&center=true&vCenter=true&width=500&height=25&lines=%3E+SYSTEM_BOOT%3A+INITIALIZING_PROFILE..." />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=620&lines=%F0%9F%91%8B+Hey%2C+I'm+Adarsh+Pal!;Full+Stack+Developer+%F0%9F%9A%80;Python+%7C+Java+%7C+JavaScript+%7C+C;DSA+%7C+AI+%7C+Web3+Explorer+%F0%9F%94%AD;Orophile+%E2%80%94+Mountain+%26+Nature+Lover+%F0%9F%8F%94%EF%B8%8F" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1100&color=FF6EC7&center=true&vCenter=true&random=false&width=700&lines=whoami+%E2%86%92+4th-Year+CE+Student%2C+LTCoE;Tech+Lead+%40+GDG+On+Campus;Building+Skill+Forge+%2B+Hindustan+Utsav;Shipping+code+at+sea+level+%26+summit+alike" alt="Typing SVG" />
 
 <br/><br/>
 
-<!-- ══════════════════════════════════════════════════
-     SOCIAL BADGES
-═══════════════════════════════════════════════════ -->
-
-<a href="mailto:adarsh.r.s.pal@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117"/>
-</a>&nbsp;
-<a href="https://www.linkedin.com/in/adarsh-pal-11212b292">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117"/>
-</a>&nbsp;
-<a href="https://www.instagram.com/_adarsh.pal">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1117"/>
-</a>&nbsp;
-<a href="https://github.com/pal-adarsh">
-  <img src="https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=github&logoColor=0d1117&labelColor=0d1117"/>
-</a>
+<a href="mailto:adarsh.r.s.pal@gmail.com"><img src="https://img.shields.io/badge/GMAIL-ff2d95?style=for-the-badge&logo=gmail&logoColor=0a0510&labelColor=0a0510"/></a>&nbsp;
+<a href="https://www.linkedin.com/in/adarsh-pal-11212b292"><img src="https://img.shields.io/badge/LINKEDIN-ff2d95?style=for-the-badge&logo=linkedin&logoColor=0a0510&labelColor=0a0510"/></a>&nbsp;
+<a href="https://www.instagram.com/_adarsh.pal"><img src="https://img.shields.io/badge/INSTAGRAM-ff2d95?style=for-the-badge&logo=instagram&logoColor=0a0510&labelColor=0a0510"/></a>&nbsp;
+<a href="https://github.com/pal-adarsh"><img src="https://img.shields.io/badge/GITHUB-ff2d95?style=for-the-badge&logo=github&logoColor=0a0510&labelColor=0a0510"/></a>
 
 <br/><br/>
 
-<!-- ══════════════════════════════════════════════════
-     ANIMATED METRIC BADGES
-═══════════════════════════════════════════════════ -->
+<img src="https://komarev.com/ghpvc/?username=pal-adarsh&style=for-the-badge&color=ff2d95&labelColor=0a0510&label=PROFILE+VIEWS" />
+&nbsp;<img src="https://img.shields.io/github/followers/pal-adarsh?style=for-the-badge&color=ff6ec7&labelColor=0a0510&label=FOLLOWERS&logo=github&logoColor=0a0510" />
+&nbsp;<img src="https://img.shields.io/github/stars/pal-adarsh?style=for-the-badge&color=e0299e&labelColor=0a0510&label=STARS&logo=github&logoColor=0a0510" />
 
-<img src="https://komarev.com/ghpvc/?username=pal-adarsh&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" />
-&nbsp;
-<img src="https://img.shields.io/github/followers/pal-adarsh?style=for-the-badge&color=06b6d4&labelColor=0d1117&label=FOLLOWERS&logo=github&logoColor=white" />
-&nbsp;
-<img src="https://img.shields.io/github/stars/pal-adarsh?style=for-the-badge&color=f59e0b&labelColor=0d1117&label=TOTAL+STARS&logo=github&logoColor=white" />
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
 </div>
 
 <br/>
 
----
+<!-- ══════════════════════════════════════════════════
+     ASYMMETRIC ABOUT — off-grid layout
+═══════════════════════════════════════════════════ -->
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> About Me
+<table width="100%">
+<tr>
+<td width="58%" valign="top">
 
-```yaml
-📍 Location    : Mumbai, India 🇮🇳
-🎓 Education   : Computer Engineering — LTCoE, Mumbai University (3rd Year)
-💼 Role        : Full Stack Developer | Open Source Enthusiast
+### <samp>◤ 01 — BASE_CAMP</samp>
 
-🔭 Currently   :
-   - ⚡ Building full-stack production apps (Next.js + Supabase)
-   - 🧩 Sharpening DSA for campus placements
-   - 🤖 Exploring AI/ML and LLM integrations
-   - 🌐 Diving into Web3 & Blockchain
+```ruby
+class Adarsh
+  def initialize
+    @location   = "Mumbai, India"
+    @education  = "Computer Engg, Final Yr — LTCoE, Mumbai University"
+    @leadership = [
+      "Technical Secretary  → CESA",
+      "Event Head           → CSI",
+      "Tech Lead            → GDG On Campus LTCoE"
+    ]
+  end
 
-🌿 Outside Code :
-   - 🥾 Trekking mountain trails
-   - 🌱 Growing plants & exploring nature
-   - 🗺️ Traveling to unexplored places
+  def currently_building
+    ["Skill Forge — MU placement-readiness engine",
+     "Hindustan Utsav — AI festival encyclopedia",
+     "Portfolio v3 — Three.js + kinetic motion"]
+  end
 
-💬 Ask Me About : Full Stack Dev, React, Next.js, Python, Web Projects
-🚀 Philosophy   : "The sky is NOT the limit — it's just the beginning."
+  def when_not_coding
+    "chasing ridgelines, keeping 20+ plants alive"
+  end
+end
 ```
+
+</td>
+<td width="42%" valign="top" align="center">
 
 <br/>
 
----
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100%" style="border-radius:16px; border:1px solid #ff2d95"/>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"> Tech Stack
+<br/><br/>
+
+<samp>◢ "The sky is NOT the<br/>limit — it's just<br/>the beginning."</samp>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+</div>
+
+<br/>
+
+### <samp>◤ 02 — ARSENAL</samp>
 
 <div align="center">
 
-### 🌐 Frontend
+<sub><b>FRONTEND</b></sub>
+<br/>
 <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,tailwind,bootstrap&theme=dark&perline=8" />
 
+<br/><br/>
+
+<sub><b>BACKEND / LANGUAGES</b></sub>
 <br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,java,c,mysql,mongodb,postgresql&theme=dark&perline=8" />
 
-### ⚙️ Backend & Databases
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,mongodb,mysql,supabase&theme=dark&perline=8" />
+<br/><br/>
 
+<sub><b>TOOLING</b></sub>
 <br/>
-
-### 🧰 Languages & Tools
-<img src="https://skillicons.dev/icons?i=java,c,git,github,vscode,figma,vercel,linux&theme=dark&perline=8" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,linux,docker,postman&theme=dark&perline=8" />
 
 </div>
 
 <br/>
 
----
+<div align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+</div>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> GitHub Stats
+<br/>
+
+### <samp>◤ 03 — SIGNAL_FEED</samp>
 
 <div align="center">
 
 <table>
   <tr>
     <td width="50%">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=pal-adarsh&show_icons=true&theme=transparent&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=06b6d4&text_color=c9d1d9&rank_icon=github&include_all_commits=true&count_private=true" />
+      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=pal-adarsh&show_icons=true&theme=transparent&hide_border=true&bg_color=0a0510&title_color=ff2d95&icon_color=ff6ec7&text_color=e8d5e8&ring_color=ff2d95&rank_icon=github&include_all_commits=true&count_private=true" />
     </td>
     <td width="50%">
-      <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=pal-adarsh&theme=transparent&hide_border=true&background=0d1117&ring=a78bfa&fire=f97316&currStreakNum=ffffff&sideNums=a78bfa&currStreakLabel=06b6d4&sideLabels=c9d1d9&dates=888888" />
+      <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=pal-adarsh&theme=transparent&hide_border=true&background=0a0510&ring=ff2d95&fire=ff6ec7&currStreakNum=ffffff&sideNums=ff2d95&currStreakLabel=ff6ec7&sideLabels=e8d5e8&dates=888888" />
     </td>
   </tr>
 </table>
 
 <br/>
 
-<img width="52%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pal-adarsh&layout=compact&theme=transparent&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=10&card_width=460" />
+<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pal-adarsh&layout=compact&theme=transparent&hide_border=true&bg_color=0a0510&title_color=ff2d95&text_color=e8d5e8&langs_count=10&card_width=460" />
 
 </div>
 
 <br/>
 
----
-
-## 🐍 Watch the Snake Eat My Contributions
+### <samp>◤ 04 — THE_TRAIL</samp>
 
 <div align="center">
 
 <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/pal-adarsh/pal-adarsh/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/pal-adarsh/pal-adarsh/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="GitHub Contribution Snake"
-    src="https://raw.githubusercontent.com/pal-adarsh/pal-adarsh/output/github-contribution-grid-snake-dark.svg"
-    width="100%"
-  />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pal-adarsh/pal-adarsh/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pal-adarsh/pal-adarsh/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/pal-adarsh/pal-adarsh/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </picture>
 
 </div>
 
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img
-width="100%"
-src="https://github-readme-activity-graph.vercel.app/graph?username=pal-adarsh&theme=tokyo-night&hide_border=true&area=true&custom_title=Adarsh%20Pal's%20Contribution%20Graph"
-/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pal-adarsh&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7" />
-</div>
-
 <br/>
 
----
-
-## 🎯 Current Focus
+### <samp>◤ 05 — ELEVATION_LOG</samp>
 
 <div align="center">
 
-| 🎯 Area | 💡 Status | 🔥 Progress |
-|:--------|:----------|:-----------|
-| 🧩 Data Structures & Algorithms | `Active` | ![](https://img.shields.io/badge/▓▓▓▓▓▓░░░░-60%25-7c3aed?style=flat-square&labelColor=0d1117) |
-| 🤖 Artificial Intelligence & ML | `Exploring` | ![](https://img.shields.io/badge/▓▓▓░░░░░░░-35%25-06b6d4?style=flat-square&labelColor=0d1117) |
-| 🌐 Web3 & Blockchain | `Learning` | ![](https://img.shields.io/badge/▓▓░░░░░░░░-20%25-f59e0b?style=flat-square&labelColor=0d1117) |
-| ⚛️ MERN Stack | `Building` | ![](https://img.shields.io/badge/▓▓▓▓▓▓▓░░░-75%25-22c55e?style=flat-square&labelColor=0d1117) |
-| 🎓 Campus Placements | `Preparing` | ![](https://img.shields.io/badge/▓▓▓▓▓░░░░░-50%25-f97316?style=flat-square&labelColor=0d1117) |
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=pal-adarsh&theme=react-dark&hide_border=true&area=true&color=ff2d95&line=ff2d95&point=ff6ec7&custom_title=Adarsh's%20Contribution%20Graph" />
 
 </div>
 
 <br/>
 
----
+### <samp>◤ 06 — TROPHY_CASE</samp>
 
-## 🤝 Open To Collaborate On
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=pal-adarsh&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7" />
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+</div>
+
+<br/>
+
+### <samp>◤ 07 — CURRENT_ASCENT</samp>
+
+<div align="center">
+
+| Track | Status | Progress |
+|:---|:---:|:---|
+| 🧩 Data Structures & Algorithms | `ACTIVE` | ![](https://img.shields.io/badge/%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%92%E2%96%92%E2%96%92%E2%96%92-60%25-ff2d95?style=flat-square&labelColor=0a0510) |
+| 🚀 Skill Forge — Platform Build | `BUILDING` | ![](https://img.shields.io/badge/%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%92%E2%96%92%E2%96%92%E2%96%92%E2%96%92%E2%96%92-40%25-ff2d95?style=flat-square&labelColor=0a0510) |
+| 🕉️ Hindustan Utsav — Redesign | `IN_PROGRESS` | ![](https://img.shields.io/badge/%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%92%E2%96%92%E2%96%92%E2%96%92%E2%96%92-50%25-ff2d95?style=flat-square&labelColor=0a0510) |
+| 💼 Campus Placement Prep | `PREPARING` | ![](https://img.shields.io/badge/%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%92%E2%96%92%E2%96%92%E2%96%92%E2%96%92-50%25-ff2d95?style=flat-square&labelColor=0a0510) |
+| 🌐 System Design | `LEARNING` | ![](https://img.shields.io/badge/%E2%96%93%E2%96%93%E2%96%92%E2%96%92%E2%96%92%E2%96%92%E2%96%92%E2%96%92%E2%96%92%E2%96%92-25%25-ff2d95?style=flat-square&labelColor=0a0510) |
+
+</div>
+
+<br/>
+
+### <samp>◤ 08 — OPEN_CHANNELS</samp>
 
 <div align="center">
 
 <table>
   <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/🌐-Full%20Stack%20Web%20Apps-7c3aed?style=for-the-badge&labelColor=0d1117" /><br/><sub>Next.js · Node · Supabase</sub>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/🌐-Full%20Stack%20Web%20Apps-ff2d95?style=for-the-badge&labelColor=0a0510" /><br/><sub>Next.js · Node · Postgres</sub>
     </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/🤖-AI%20Powered%20Tools-06b6d4?style=for-the-badge&labelColor=0d1117" /><br/><sub>LLM APIs · Automation</sub>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/🤖-AI%20Powered%20Tools-ff2d95?style=for-the-badge&labelColor=0a0510" /><br/><sub>LLM APIs · Automation</sub>
     </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/🎨-3D%20Web%20Experiences-f59e0b?style=for-the-badge&labelColor=0d1117" /><br/><sub>Three.js · WebGL · Creative UI</sub>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/🎨-Motion%20%26%203D%20Web-ff2d95?style=for-the-badge&labelColor=0a0510" /><br/><sub>Three.js · WebGL · Framer</sub>
     </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/🌱-Open%20Source-22c55e?style=for-the-badge&labelColor=0d1117" /><br/><sub>Indian Market Problems</sub>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/🇮🇳-EdTech%20for%20India-ff2d95?style=for-the-badge&labelColor=0a0510" /><br/><sub>MU Students · Placement Prep</sub>
     </td>
   </tr>
 </table>
@@ -215,45 +224,44 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=pal-adarsh&t
 
 <br/>
 
----
-
-## ✨ Beyond The Code
-
-<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="180"/>
-
-- 🥾 **Mountain Trekker** — trails feel like home
-- 🌿 **Plant Parent** — 20+ plants and counting
-- 🌍 **Wanderlust** — always planning the next adventure  
-- 😄 **Orophile** — lover of mountains & high places
-- 🧠 **Fun fact** — I debug best on hikes 😄
-- 🔥 **Superpower** — Making any project look aesthetic
-
-<br clear="right"/>
-
----
-
-## 💭 Words I Live By
-
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3500&pause=800&color=06B6D4&center=true&vCenter=true&random=false&width=750&lines=%F0%9F%9A%80+The+Sky+is+NOT+the+Limit+%E2%80%94+It's+Just+the+Beginning!;%F0%9F%8C%84+Keep+Exploring+New+Horizons+Every+Single+Day;%F0%9F%92%A1+Stay+Curious.+Stay+Hungry.+Stay+Foolish.;%F0%9F%8C%B1+Every+Line+of+Code+is+a+Step+Forward;%F0%9F%94%AD+Code.+Explore.+Repeat." alt="Quote Animation" />
-
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 </div>
 
 <br/>
 
----
+### <samp>◤ 09 — OFF_GRID</samp>
 
-<div align="center">
+<table width="100%">
+<tr>
+<td width="65%" valign="top">
 
-*✨ Thanks for stopping by! Drop a ⭐ if something caught your eye!*
+- 🥾 **Trekker at heart** — ridgelines clear my head better than any debugger
+- 🌱 **Plant parent** — 20+ plants, all still alive, mostly on purpose
+- 🗺️ **Always mid-plan** for the next trail or unexplored place
+- 🏔️ **Orophile** — genuinely happiest above the treeline
+- 🧠 **Best debugging happens on a hike**, worst debugging happens at 2 AM
+- 🔥 **Known for** making any project look like it belongs on a design blog
+
+</td>
+<td width="35%" valign="top" align="center">
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100%" style="border-radius:16px; border:1px solid #ff2d95"/>
+</td>
+</tr>
+</table>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2000&pause=500&color=7c3aed&center=true&vCenter=true&width=440&lines=Let's+build+something+amazing+together!+🚀" alt="Footer typing" />
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=3500&pause=800&color=FF6EC7&center=true&vCenter=true&width=750&lines=Keep+climbing.+Keep+shipping.;Code.+Explore.+Repeat.;%3E+SYSTEM_STATUS%3A+ALWAYS_BUILDING" alt="Quote Animation" />
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,40:3b0764,80:130428,100:0d1117&height=130&section=footer&animation=twinkling" />
+*Thanks for stopping by — a ⭐ always makes the climb worth it.*
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:ff2d95,35:5b0f5e,70:2d0a3e,100:0a0510&height=150&section=footer&animation=twinkling" />
 
 </div>
