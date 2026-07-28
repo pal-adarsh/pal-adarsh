@@ -147,7 +147,7 @@ width="92%" />
       <img width="100%" src="https://github-readme-stats.vercel.app/api?username=pal-adarsh&show_icons=true&theme=transparent&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=06b6d4&text_color=c9d1d9&rank_icon=github&include_all_commits=true&count_private=true" />
     </td>
     <td width="50%">
-      <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=pal-adarsh&theme=transparent&hide_border=true&background=0d1117&ring=a78bfa&fire=f97316&currStreakNum=ffffff&sideNums=a78bfa&currStreakLabel=06b6d4&sideLabels=c9d1d9&dates=888888" />
+      <img width="100%" src="https://streak-stats.demolab.com/?user=pal-adarsh&theme=transparent&hide_border=true&background=0d1117&ring=a78bfa&fire=f97316&currStreakNum=ffffff&sideNums=a78bfa&currStreakLabel=06b6d4&sideLabels=c9d1d9&dates=888888" />
     </td>
   </tr>
 </table>
@@ -192,7 +192,7 @@ width="92%" />
 
 <img
 width="100%"
-src="https://github-readme-activity-graph.vercel.app/graph?username=pal-adarsh&theme=tokyo-night&hide_border=true&area=true&custom_title=Adarsh%20Pal's%20Contribution%20Graph"
+src="https://github-readme-activity-graph.vercel.app/graph?username=pal-adarsh&bg_color=0d1117&color=ffffff&line=ff69b4&point=ff1493&area=true&area_color=ff69b4&hide_border=true&title_color=ff69b4&custom_title=Adarsh%20Pal's%20Contribution%20Graph"
 />
 
 </div>
@@ -287,7 +287,7 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=pal-adarsh&t
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2000&pause=500&color=7c3aed&center=true&vCenter=true&width=440&lines=Let's+build+something+amazing+together!+🚀" alt="Footer typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2000&pause=500&color=7c3aed&center=true&vCenter=true&width=440&lines=Lets+build+something+amazing+together!+🚀" alt="Footer typing" />
 
 <br/><br/>
 
