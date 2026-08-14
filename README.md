@@ -160,29 +160,6 @@ width="92%" />
 
 ---
 
-## 🐍 Watch the Snake Eat My Contributions
-
-<div align="center">
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/pal-adarsh/pal-adarsh/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/pal-adarsh/pal-adarsh/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="GitHub Contribution Snake"
-    src="https://raw.githubusercontent.com/pal-adarsh/pal-adarsh/output/github-contribution-grid-snake-dark.svg"
-    width="100%"
-  />
-</picture>
-
-</div>
-
----
 
 ## 📈 Contribution Graph
 
@@ -266,6 +243,31 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=pal-adarsh&b
 <br clear="right"/>
 
 ---
+
+## 🐍 Watch the Snake Eat My Contributions
+
+<div align="center">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/pal-adarsh/pal-adarsh/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/pal-adarsh/pal-adarsh/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/pal-adarsh/pal-adarsh/output/github-contribution-grid-snake-dark.svg"
+    width="100%"
+  />
+</picture>
+
+</div>
+
+---
+
 
 ## 💭 Words I Live By
 
