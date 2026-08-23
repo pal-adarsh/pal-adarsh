@@ -1,0 +1,35 @@
+name: Generate Profile Stats
+on:
+  schedule:
+    - cron: "0 0 * * *"   # runs once a day
+  workflow_dispatch:        # lets you trigger it manually from the Actions tab
+
+jobs:
+  generate-stats:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate GitHub stats card
+        uses: stats-organization/github-readme-stats-action@v1
+        with:
+          card: stats
+          options: "username=pal-adarsh&show_icons=true&theme=transparent&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=06b6d4&text_color=c9d1d9&count_private=true&include_all_commits=true"
+          path: profile/stats.svg
+
+      - name: Generate Top Languages card
+        uses: stats-organization/github-readme-stats-action@v1
+        with:
+          card: top-langs
+          options: "username=pal-adarsh&layout=compact&theme=transparent&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=10"
+          path: profile/top-langs.svg
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add profile/*.svg
+          git diff --staged --quiet || git commit -m "chore: update profile stats [skip ci]"
+          git push
