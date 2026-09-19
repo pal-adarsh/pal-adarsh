@@ -176,7 +176,7 @@ width="92%" />
 <div align="center">
 
 <img
-src="https://raw.githubusercontent.com/adarsh-pal2/adarsh-pal2/main/profile-3d-contrib/profile-night-rainbow.svg"
+src="https://raw.githubusercontent.com/pal-adarsh/pal-adarsh/main/profile-3d-contrib/profile-night-rainbow.svg"
 width="100%"
 alt="3D Contribution Calendar"
 />
