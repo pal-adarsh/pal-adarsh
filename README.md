@@ -129,7 +129,7 @@ width="92%" />
 
 <br/>
 
-### 🧰 Languages & Tools
+### 🧰 Languages & Toolss
 <img src="https://skillicons.dev/icons?i=java,c,git,github,vscode,figma,vercel,linux&theme=dark&perline=8" />
 
 </div>
