@@ -173,7 +173,7 @@ width="92%" />
 
 ## 🗓️ 3D Contribution Calendar
 
-<div align="center">
+<!-- <div align="center">
 
 <img
 src="https://raw.githubusercontent.com/pal-adarsh/pal-adarsh/main/profile-3d-contrib/profile-night-rainbow.svg"
@@ -181,7 +181,7 @@ width="100%"
 alt="3D Contribution Calendar"
 />
 
-</div>
+</div> -->
 
 ---
 
